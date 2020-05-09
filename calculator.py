@@ -8,6 +8,6 @@ def subtract(a, b):
 def multiply(a, b):
 	return a * b 	
 
-def divied(a, b):
+def divied_free(a, b):
 	return a/b
 
